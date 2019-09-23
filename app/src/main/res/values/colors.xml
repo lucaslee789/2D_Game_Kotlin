@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#83C4E1</color>
+    <color name="colorPrimaryDark">#5B7E8C</color>
+    <color name="colorAccent">#708DA6</color>
+    <color name="numberButton">#8b8989</color>
+    <color name="actionButton">#20b2aa</color>
+    <color name="greeeeen">#6b8e23</color>
+    <color name="yelllowww">#FED507</color>
+
+
+    <color name="colorBlue">#1e90ff</color>
+    <color name="colorLightblue">#87ceeb</color>
+    <color name="colorPurple">#7b68ee</color>
+    <color name="colorRed">#ff6347</color>
+    <color name="colorGreen">#20b2aa</color>
+    <color name="colorPink">#ff69b4</color>
+    <color name="colorGray">#8b8989</color>
+    <color name="colorNavy">#191970</color>
+    <color name="colorYes">#98fb98</color>
+    <color name="colorNo">#ff0000</color>
+    <color name="colorReallyBlue">#e0ffff</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorDivider">#B6B6B6</color>
+    <color name="lightgray">#ededed</color>
+    <color name="colorOrange">#ffa500</color>
+    <color name="lavender">#e6e6fa</color>
+</resources>
